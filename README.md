@@ -8,11 +8,6 @@ I am a 6th-semester B.E. Computer Science and Engineering student at Vidya Vardh
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madhurv01/madhurv01/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/madhurv01/madhurv01/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/madhurv01/madhurv01/output/github-snake.svg" />
-</picture>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=madhurv01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
