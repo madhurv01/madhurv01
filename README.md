@@ -1,3 +1,5 @@
+<img src="banner.png" alt="GitHub Banner" width="100%" />
+
 # 💫 Have a glimpse of knowing me:
 I am a 6th-semester B.E. Computer Science and Engineering student at Vidya Vardhaka College of Engineering, driven by a passion for technology and innovation. With a strong foundation in Data Structures and Algorithms, I specialize in crafting optimized solutions using C++. As a Machine Learning enthusiast, I am dedicated to exploring cutting-edge models and their applications to solve real-world challenges. I actively engage in open-source projects, continuously enhancing my technical expertise and collaborating with the global developer community to create impactful solutions.
 
